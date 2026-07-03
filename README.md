@@ -1,6 +1,4 @@
 # cloud-infrastructure-study
-# Cloud Study App
-
 ## Dockerfile
 
 ```dockerfile
